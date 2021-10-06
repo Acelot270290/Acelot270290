@@ -34,12 +34,6 @@
     <a href="https://www.php.net">
         <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
     </a>
-    <a href="https://www.r-project.org">
-        <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-    </a>
-    <a href="https://www.perl.org">
-        <img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
-    </a>
     <a href="https://pt.wikipedia.org/wiki/Shell_script">
         <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </a>
@@ -58,9 +52,6 @@
     </a>
     <a href="https://jquery.com">
         <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-    </a>
-    <a href="https://www.djangoproject.com">
-        <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
     </a>
 </div>
 
@@ -81,22 +72,6 @@
     </a>
     <a href="https://www.nginx.com">
         <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-    </a>
-</div>
-
-<div align="center">
-    <h1>ML/DL</h1>
-    <a href="https://keras.io">
-        <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-    </a>
-    <a href="https://www.tensorflow.org/">
-        <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    </a>
-    <a href="https://pandas.pydata.org">
-        <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-    </a>
-    <a href="https://numpy.org">
-        <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
     </a>
 </div>
 
