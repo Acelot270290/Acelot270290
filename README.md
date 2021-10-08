@@ -67,6 +67,16 @@
 </div>
 
 <div align="center">
+    <h1>Databases</h1>
+    <a href="https://www.mysql.com">
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+    <a href="https://www.postgresql.org">
+        <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </a>
+</div>
+
+<div align="center">
     <h1>Servers</h1>
     <a href="https://www.apache.org">
         <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
