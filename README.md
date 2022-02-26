@@ -1,4 +1,4 @@
-##Olá meu nome é Estudante de Mestrado Engenharia Computacional.
+##Olá meu nome é Alan Diniz Programador a mais de 7 anos.
 
 ------
 <div align="center">
